@@ -1,10 +1,10 @@
-# Laravel School ERP
+# Academix ERP
 
 A modern School Enterprise Resource Planning (ERP) system built with Laravel 12.
 
 ## About The Project
 
-Laravel School ERP is a comprehensive school management platform designed to simplify academic, administrative, financial, and human resources operations within educational institutions.
+Academix ERP is a comprehensive school management platform designed to simplify academic, administrative, financial, and human resources operations within educational institutions.
 
 The application provides a centralized system for managing students, teachers, parents, classes, attendance, grades, report cards, payments, and teacher contracts.
 
@@ -225,9 +225,9 @@ Bootstrap Icons
 ## Installation
 
 ```bash
-git clone [https://github.com/Cyrus-CS/laravel-school-erp.git
+git clone [https://github.com/Cyrus-CS/academix-erp.git
 
-cd laravel-school-erp
+cd academix-erp
 
 composer install
 
